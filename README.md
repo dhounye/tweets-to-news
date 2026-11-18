@@ -21,13 +21,13 @@ The sample contains 36 public tweets, mostly in French. In the test run, the not
 | Links matching the news website list | 29 |
 | Distinct news links processed | 29 |
 | Articles retrieved from the original websites | 10 |
-| Articles retrieved from the Internet Archive | 12 |
-| Articles successfully retrieved in total | 22 |
-| Articles not retrieved | 7 |
+| Articles retrieved from the Internet Archive | 13 |
+| Articles successfully retrieved in total | 23 |
+| Articles not retrieved | 6 |
 
-Of the 29 distinct news links, 22 articles were successfully retrieved: 10 from the original websites and 12 from archived copies.
+Of the 29 distinct news links, 23 articles were successfully retrieved: 10 from the original websites and 13 from archived copies.
 
-The 7 remaining articles could not be retrieved. In the sample run, the original websites refused access, and the Internet Archive either had no available copy or returned an error. Six of the seven were published in the two days before the test and had not been archived yet; the seventh is an older article for which the Internet Archive returned a rate-limit error.
+The 6 remaining articles could not be retrieved. In the sample run, the original websites refused access and the Internet Archive had no available copy. All six were published in the two days before the test and had not been archived yet.
 
 The results also show that the Internet Archive can be useful for recovering articles from websites that refuse automated access, including Le Monde, RFI, Le Parisien and Le Point.
 
