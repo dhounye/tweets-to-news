@@ -31,7 +31,7 @@ The 6 remaining articles could not be retrieved. In the sample run, the original
 
 The results also show that the Internet Archive can be useful for recovering articles from websites that refuse automated access, including Le Monde, RFI, Le Parisien and Le Point.
 
-These figures describe this particular sample and test run. They do not represent the expected retrieval rate for every collection of tweets.
+This work describes a particular sample and test run. They do not represent the expected retrieval rate for every collection of tweets.
 
 ## 2. Installation and execution
 
